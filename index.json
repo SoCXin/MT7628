@@ -1,0 +1,31 @@
+{
+    "type":"SoC",
+    "name":"MT7628",
+    "title": "MediaTek MT7628 SoC",
+    "description":"MediaTek dual-core MIPS SoC",
+    "Core": {
+        "type":"1004KEc",
+        "Freq":880,
+        "DMIPS": 210,
+        "CoreMark": 566
+    },
+    "manufacturer": {
+        "vendor":"MediaTek",
+        "homepage":"https://www.mediatek.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SoCXin/MT7628.git"
+    },
+    "version":"1.0.0",
+    "series":["MT7628A","MT7628K","MT7628N"],
+    "package":["LQFP144","LQFP100"],
+    "peripheral": ["ADC","UART","I2C","SPI","PWM"],
+    "keywords": [
+        "dev-platform",
+        "ARM",
+        "Cortex-M",
+        "ADC","DAC","SDIO","CAN","I2C","RTC","SPI",
+        "3.6V","1.8V"
+    ]
+}
