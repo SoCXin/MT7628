@@ -3,7 +3,7 @@
 [![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
 
 * [MediaTek](https://www.mediatek.com/): [24KEc](https://github.com/SoCXin/MIPS)
-* [L6R6](https://github.com/SoCXin/Level): 580 MHz x 1.55 DMIPS/MHz (3.05 CoreMark/MHz)
+* [L7R6](https://github.com/SoCXin/Level): 580 MHz x 1.55 DMIPS/MHz (3.05 CoreMark/MHz)
 
 ## [简介](https://github.com/SoCXin/MT7628/wiki)
 
@@ -13,13 +13,13 @@
 
 ### 关键特性
 
-* 2T2R 802.11n Wi-Fi AP
-* 5 port Fast Ethernet Switch
+* 2T2R 802.11n Wi-Fi 收发器
+* 5 端口高速以太网络端口物理层 (Ethernet PHY)
 
 #### 封装规格
 
-* QFN156 (12×12mm)
-* QFN120 (10×10mm)
+* MT7628AN:DR-QFN156 (12×12mm)
+* MT7628KN:DR-QFN120 (10×10mm)
 
 
 ### [资源收录](https://github.com/SoCXin)

@@ -39,7 +39,7 @@ HACKING*
 *.odg
 *.csv
 *.xml
-*.pdf
+# *.pdf
 *_sc*
 *cm23*
 *cm33*
